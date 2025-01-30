@@ -5,7 +5,7 @@ This repository contains the backend REST API built with Spring Boot and MongoDB
 
 ### Tech Stack
 
-- Java 17
+- Java 23
 - Spring Boot 3.x
 - Spring Data MongoDB
 - Spring Web
